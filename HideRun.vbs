@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c auto-push.bat /start",0
